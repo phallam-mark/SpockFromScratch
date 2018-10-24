@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Step6Specification" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-24T19:30:40" hostname="CAN-CLC-CW3R0G2" time="0.637">
+  <properties/>
+  <testcase name="TestCase 1 - verify that we can successfully make a call to SOAP Service" classname="Step6Specification" time="0.637"/>
+  <system-out><![CDATA[15:30:40.548 [Test worker] DEBUG Step6Specification - setupSpec() - Runs once per Specification
+15:30:40.583 [Test worker] DEBUG Step6Specification - setup() - Runs before every feature method
+15:30:40.591 [Test worker] DEBUG Step6Specification - TestCase 1 - start
+15:30:41.217 [Test worker] DEBUG Step6Specification - Cleanup method - Runs after every feature method.
+15:30:41.218 [Test worker] DEBUG Step6Specification - cleanupSpec() - Runs only once per specification
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
