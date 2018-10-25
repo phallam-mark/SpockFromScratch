@@ -71,26 +71,26 @@ Your project is now ready for code to be added.
 
 ## Step 2: Add a new spec with the functionality to read from and write to a file
 - see 'Step2Specification.groovy' in the 'SpockFromScratch' project
-  NOTE: need to add 2 new dependencies for this Spec: 
-  groovy.util.FileNameFinder //groovy.util is part of the groovy-all package, so don't need to add to build.gradle, only need to add  import statement to Spec class
-  com.xlson.groovycsv.* //Groovy Library for reading/parsing comma-separated files
+- NOTE: need to add 2 new dependencies for this Spec: 
+- groovy.util.FileNameFinder //groovy.util is part of the groovy-all package, so don't need to add to build.gradle, only need to add  import statement to Spec class
+- com.xlson.groovycsv.* //Groovy Library for reading/parsing comma-separated files
 ## Step 3: Add a new spec with the functionality to query a database and validate the data queried
 - see 'Step3Specification.groovy' in the 'SpockFromScratch' project
-  NOTE: need to add 2 new dependencies for this Spec:
-  groovy.sql.Sql //Groovy Library for interacting with DB's using SQL
-  org.h2.jdbcx.* //Groovy Library for creating a small, in-memory DB
+- NOTE: need to add 2 new dependencies for this Spec:
+- groovy.sql.Sql //Groovy Library for interacting with DB's using SQL
+- org.h2.jdbcx.* //Groovy Library for creating a small, in-memory DB
 ## Step 4: Add some more sophisticated configuration management, so Spec can easily be re-pointed to different environments
 - see 'Step4Specification.groovy' in the 'SpockFromScratch' project
-  NOTE: need to import new library into the specification class for this step (but no new dependencies):
-  import groovy.util.*
-  Also need to add new config file:
-  \SpockFromScratch\src\test\groovy\configuration\EnviroConfig.groovy
+- NOTE: need to import new library into the specification class for this step (but no new dependencies):
+- import groovy.util.*
+- Also need to add new config file:
+- \SpockFromScratch\src\test\groovy\configuration\EnviroConfig.groovy
 ## Step 5: Add a call to a REST API and evaluate the response
 - see 'Step5Specification.groovy' in the SpockFromScratch' project
-  NOTE: need to add 2 new dependencies for this Spec:
-  compile group: 'org.codehaus.groovy.modules.http-builder', name: 'http-builder', version: '0.7.1'
-  compile 'org.apache.httpcomponents:httpclient:4.5.3'
+- NOTE: need to add 2 new dependencies for this Spec:
+- compile group: 'org.codehaus.groovy.modules.http-builder', name: 'http-builder', version: '0.7.1'
+- compile 'org.apache.httpcomponents:httpclient:4.5.3'
 ## Step 6: Add a call to a SOAP Service and evaluate the response
 - see 'Step6Specification' in the 'SpockFromScratch' project
-  NOTE: need to add a new 'group' dependency for this Spec:
-  compile group: 'com.github.groovy-wslite', name: 'groovy-wslite', version: '1.1.3'
+- NOTE: need to add a new 'group' dependency for this Spec:
+- compile group: 'com.github.groovy-wslite', name: 'groovy-wslite', version: '1.1.3'
