@@ -17,7 +17,7 @@ the following are installed:
 
   Gradle, Groovy, Spock Framework Enhancements plugins
 ## Create and configure a Gradle project in Intellij IDE:
-image 1 here
+![Intellij startup screen](https://github.com/phallam-mark/SpockFromScratch/blob/master/images_for_readme/image1.png "Intellij Startup Screen")
 
 Select Gradle and Groovy under 'additional libraries and frameworks' and then click 'next'
 
