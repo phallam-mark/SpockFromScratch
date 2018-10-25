@@ -52,6 +52,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
@@ -457,10 +460,12 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-7" />
+    <option name="x" value="541" />
+    <option name="y" value="98" />
     <option name="width" value="1378" />
-    <option name="height" value="735" />
+    <option name="height" value="944" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
@@ -705,7 +710,7 @@
       <workItem from="1538766646387" duration="4662000" />
       <workItem from="1539099492787" duration="29363000" />
       <workItem from="1539722751900" duration="5565000" />
-      <workItem from="1539788003744" duration="23954000" />
+      <workItem from="1539788003744" duration="24361000" />
     </task>
     <servers />
   </component>
@@ -742,10 +747,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63544000" />
+    <option name="totallyTimeSpent" value="63951000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
+    <frame x="541" y="98" width="1378" height="944" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="sbt" order="3" />
@@ -766,9 +771,9 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="CxGrid" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3034483" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22306718" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3444613" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
@@ -1019,7 +1024,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
